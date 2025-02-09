@@ -22,4 +22,10 @@ You can install them using `pip`:
 ```bash
 pip install pyside6 psutil
 ```
+
 ## DEMO
+![Image](https://github.com/user-attachments/assets/118b8b6b-46ae-46b2-ab57-3ae2d4951eed)
+![Image](https://github.com/user-attachments/assets/56c29527-4b8c-48a4-8a6c-1771f8a32eb9)
+![Image](https://github.com/user-attachments/assets/1411b5f6-c7ac-4d56-86e8-ce4cf9bc10bb)
+![Image](https://github.com/user-attachments/assets/6c5c6c7d-8112-47c2-96dd-dec5a8f1697a)
+![Image](https://github.com/user-attachments/assets/068f53de-72da-45e4-a444-0e73600a1784)
