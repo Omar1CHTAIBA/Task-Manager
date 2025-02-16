@@ -19,7 +19,7 @@ To run this application, you will need the following Python packages:
 
 You can install them using `pip`:
 
-```python
+```bash
 pip install pyside6 psutil
 ```
 
