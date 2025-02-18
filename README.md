@@ -10,7 +10,7 @@ A simple and lightweight Task Manager application built with PySide6 (Qt for Pyt
 - **GPU Usage Monitoring**: Placeholder for GPU usage monitoring (currently set to `0`, but can be extended based on available GPU libraries).
 - **Network Usage Monitoring**: Placeholder for network usage monitoring (currently set to `0`, but can be extended based on available network monitoring libraries).
   
-## Requirements
+## Requirements ?
 
 To run this application, you will need the following Python packages:
 
